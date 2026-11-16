@@ -11,6 +11,7 @@
 
 ## 官方仓库与入口
 
+- **AI 编程与流媒体连通性一键自检**：[`fanqiao-net/ai-ip-check`](https://github.com/fanqiao-net/ai-ip-check)（零依赖检测 Claude Code / ChatGPT / Gemini / Cursor / 台湾动画疯 / Netflix，默认脱敏 IP）
 - **客户端分流规则与 AI 配置**：[`fanqiao-net/fanqiao-rules`](https://github.com/fanqiao-net/fanqiao-rules)（Shadowrocket / Mihomo / Loon / sing-box）
 - **官网主站**：<https://fanqiao.net/> ｜ [套餐价格](https://fanqiao.net/pricing) ｜ [全球节点地区](https://fanqiao.net/locations) ｜ [客户端下载](https://fanqiao.net/download)
 - **最新可用地址页（防失联）**：<https://fanqiao-net.github.io/>
