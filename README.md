@@ -14,6 +14,7 @@
 
 ## 官方仓库与多站点入口
 
+- **2026 AI 编程代理与主流机场选型实测手册**：[`fanqiao-net/ai-proxy-guide-2026`](https://github.com/fanqiao-net/ai-proxy-guide-2026)（VLESS REALITY / 1x 家宽 / 20+ 主流机场与 VPN 客观横评、Claude Code / Cursor 排障与 Emby 4K 观影指南）
 - **AI 编程与流媒体连通性一键自检**：[`fanqiao-net/ai-ip-check`](https://github.com/fanqiao-net/ai-ip-check)（零依赖检测 Claude Code / ChatGPT / Gemini / Cursor / 台湾动画疯 / Netflix，默认脱敏 IP）
 - **客户端分流规则与 AI 配置**：[`fanqiao-net/fanqiao-rules`](https://github.com/fanqiao-net/fanqiao-rules)（Shadowrocket / Mihomo / Loon / sing-box）
 - **官网主站**：<https://fanqiao.net/> ｜ [2026热门机场对比总表](https://fanqiao.net/compare) ｜ [套餐价格](https://fanqiao.net/pricing) ｜ [全球节点地区](https://fanqiao.net/locations) ｜ [客户端下载](https://fanqiao.net/download)
