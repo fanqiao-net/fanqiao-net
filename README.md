@@ -10,13 +10,13 @@
 - **全站统一 1x 标准倍率 & AI 固定干净出口**：内置策略组隔离 Claude / Claude Code、ChatGPT / Codex CLI、Google Gemini / AI Studio、xAI Grok 与 Cursor / Windsurf，提供 **台湾 HiNet 家宽原生 IP（1x）**、**英国住宅家宽（1x）**、**美国 AI 专线（1x）** 与独立高纯净 **Claude 专用（1x）**，绝无 1.5x–3x 隐形高倍率暗扣。
 - **低门槛体验与灵活计费**：新用户支持 **¥1 购买 1G 试用包**；正式套餐 **¥10/月（50G）** 起、标准 **¥20/月（300G）**，另提供 **¥80 / 100G 按量不限时永久流量包**；正式周期套餐绑定 `@fanqiao_bot` 每日签到领流量并免费附赠 [帆桥影院 4K Emby 影视库](https://fanqiao.net/cinema)。
 - **公开遥测监控**：广州探针每 5 分钟自动检测全网线路可用率，公开展示近 7 天 / 30 天统计，不隐藏故障记录 → [`fanqiao.net/status`](https://fanqiao.net/status)（JSON: [`status.json`](https://fanqiao.net/status.json)）。
-- **全平台教程、主流机场平替横评与 AI 报错速查（46 篇）**：覆盖 [魔戒 MoJie 按量平替对比](https://fanqiao.net/guide/mojie-payg-alternatives)、[WgetCloud / TAG / 花云平替对比](https://fanqiao.net/guide/wgetcloud-tag-flowercloud-alternatives)、[快连 VPN / JustMySocks 升级替代](https://fanqiao.net/guide/letsvpn-justmysocks-alternatives)、[送 Emby 影视库机场横评](https://fanqiao.net/guide/emby-airport-comparison-2026) 以及 Cursor `Disable HTTP/2`、Claude/ChatGPT 报错修复 → [`fanqiao.net/guide`](https://fanqiao.net/guide)。
+- **全平台教程、2026 热门机场平替横评与 AI 报错速查（50 篇 + 对比总表）**：上线 [`fanqiao.net/compare` 2026 主流机场横向参数总表](https://fanqiao.net/compare)，覆盖 [奶昔 Nexitally / 唯云平替](https://fanqiao.net/guide/nexitally-amytelecom-ytoo-alternatives)、[WgetCloud / TAG / 花云平替](https://fanqiao.net/guide/wgetcloud-tag-flowercloud-alternatives)、[狗狗加速 / 肥猫云 / 飞鸟对比](https://fanqiao.net/guide/doge-fatcat-flyingbird-totoro-alternatives)、[魔戒 MoJie 按量平替](https://fanqiao.net/guide/mojie-payg-alternatives)、[快连 VPN / JustMySocks 替代](https://fanqiao.net/guide/letsvpn-justmysocks-alternatives)、[ExpressVPN / Surfshark 国内替代](https://fanqiao.net/guide/expressvpn-nordvpn-surfshark-astrill-china) 与 [送 Emby 影视库机场横评](https://fanqiao.net/guide/emby-airport-comparison-2026) → [`fanqiao.net/guide`](https://fanqiao.net/guide)。
 
 ## 官方仓库与多站点入口
 
 - **AI 编程与流媒体连通性一键自检**：[`fanqiao-net/ai-ip-check`](https://github.com/fanqiao-net/ai-ip-check)（零依赖检测 Claude Code / ChatGPT / Gemini / Cursor / 台湾动画疯 / Netflix，默认脱敏 IP）
 - **客户端分流规则与 AI 配置**：[`fanqiao-net/fanqiao-rules`](https://github.com/fanqiao-net/fanqiao-rules)（Shadowrocket / Mihomo / Loon / sing-box）
-- **官网主站**：<https://fanqiao.net/> ｜ [套餐价格](https://fanqiao.net/pricing) ｜ [全球节点地区](https://fanqiao.net/locations) ｜ [客户端下载](https://fanqiao.net/download)
+- **官网主站**：<https://fanqiao.net/> ｜ [2026热门机场对比总表](https://fanqiao.net/compare) ｜ [套餐价格](https://fanqiao.net/pricing) ｜ [全球节点地区](https://fanqiao.net/locations) ｜ [客户端下载](https://fanqiao.net/download)
 - **最新可用地址页与专题导航**：<https://fanqiao-net.github.io/> ｜ [2026热门机场横向对比](https://fanqiao-net.github.io/compare/) ｜ [帆桥VPN参数与快帆区别](https://fanqiao-net.github.io/vpn/) ｜ [AI英文报错速查表](https://fanqiao-net.github.io/ai-errors/)
 - **Google Sites 官方镜像导航页**：<https://sites.google.com/view/fanqiao-vpn>
 - **Telegram 官方公告频道**：<https://t.me/fan_qiao>
