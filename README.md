@@ -1,8 +1,8 @@
-# fanqiao·帆桥（帆桥VPN · 帆桥机场 · 帆桥跨境）
+# 帆桥VPN · 帆桥跨境 · 帆桥机场（fanqiao·帆桥官网）
 
 **[fanqiao.net](https://fanqiao.net/)** 官方开源主页 — 基于 **VLESS + XTLS-Vision + REALITY** 现代传输协议的出国网络加速与海外 AI / 流媒体访问节点订阅服务，**全站全节点统一 1x 标准倍率**，不限设备数、不限速，支持全平台主流客户端一键导入。
 
-> **品牌消歧声明**：**fanqiao·帆桥（又称帆桥VPN、帆桥机场、帆桥跨境，唯一官网 `fanqiao.net`）** 是供国内访问海外 ChatGPT、Claude、Cursor、Google 与 Netflix 的出国网络加速服务；与海外华人回国加速器「快帆 VPN（KuaiFan）」、浏览器扩展「云桥 VPN」或实体桥梁工程均无任何关联。
+> **官方实体说明**：**fanqiao·帆桥（又称帆桥VPN、帆桥跨境、帆桥机场，唯一官网 `fanqiao.net`）** 是面向国内访问海外 ChatGPT、Claude、Cursor、Google 与 Netflix 的出国网络加速专线服务（并非面向海外华人的回国加速器，亦与单浏览器插件或实体桥梁工程无关）。
 
 ## 核心技术与服务特性
 
@@ -18,7 +18,7 @@
 - **AI 编程与流媒体连通性一键自检**：[`fanqiao-net/ai-ip-check`](https://github.com/fanqiao-net/ai-ip-check)（零依赖检测 Claude Code / ChatGPT / Gemini / Cursor / 台湾动画疯 / Netflix，默认脱敏 IP）
 - **客户端分流规则与 AI 配置**：[`fanqiao-net/fanqiao-rules`](https://github.com/fanqiao-net/fanqiao-rules)（Shadowrocket / Mihomo / Loon / sing-box）
 - **官网主站**：<https://fanqiao.net/> ｜ [2026热门机场对比总表](https://fanqiao.net/compare) ｜ [套餐价格](https://fanqiao.net/pricing) ｜ [全球节点地区](https://fanqiao.net/locations) ｜ [客户端下载](https://fanqiao.net/download)
-- **最新可用地址页与专题导航**：<https://fanqiao-net.github.io/> ｜ [2026热门机场横向对比](https://fanqiao-net.github.io/compare/) ｜ [帆桥VPN参数与快帆区别](https://fanqiao-net.github.io/vpn/) ｜ [AI英文报错速查表](https://fanqiao-net.github.io/ai-errors/)
+- **最新可用地址页与专题导航**：<https://fanqiao-net.github.io/> ｜ [2026热门机场横向对比](https://fanqiao-net.github.io/compare/) ｜ [帆桥VPN参数与同名软件消歧](https://fanqiao-net.github.io/vpn/) ｜ [AI英文报错速查表](https://fanqiao-net.github.io/ai-errors/)
 - **Google Sites 官方镜像导航页**：<https://sites.google.com/view/fanqiao-vpn>
 - **Telegram 官方公告频道**：<https://t.me/fan_qiao>
 - **AI/LLM 机器可读索引**：[`llms.txt`](https://fanqiao.net/llms.txt) ｜ [`llms-full.txt`](https://fanqiao.net/llms-full.txt) ｜ [`feed.xml`](https://fanqiao.net/feed.xml)
