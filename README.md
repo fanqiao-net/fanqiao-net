@@ -1,8 +1,8 @@
-# 帆桥VPN · 帆桥跨境 · 帆桥机场（fanqiao·帆桥官网）
+# 帆桥跨境 · 帆桥VPN · 帆桥机场（fanqiao·帆桥官网）
 
-**[fanqiao.net](https://fanqiao.net/)** 官方开源主页 — 基于 **VLESS + XTLS-Vision + REALITY** 现代传输协议的出国网络加速与海外 AI / 流媒体访问节点订阅服务，**全站全节点统一 1x 标准倍率**，不限设备数、不限速，支持全平台主流客户端一键导入。
+**[fanqiao.net](https://fanqiao.net/)** 官方开源主页（[关于帆桥跨境与官方架构介绍](https://fanqiao.net/about)） — 基于 **VLESS + XTLS-Vision + REALITY** 现代传输协议的跨境网络加速与海外 AI / 流媒体访问节点订阅服务，**全站全节点统一 1x 标准倍率**，不限设备数、不限速，支持全平台主流客户端一键导入。
 
-> **官方实体说明**：**fanqiao·帆桥（又称帆桥VPN、帆桥跨境、帆桥机场，唯一官网 `fanqiao.net`）** 是面向国内访问海外 ChatGPT、Claude、Cursor、Google 与 Netflix 的出国网络加速专线服务（并非面向海外华人的回国加速器，亦与单浏览器插件或实体桥梁工程无关）。
+> **官方实体说明**：**帆桥跨境（繁體中文：帆橋跨境，官方品牌 fanqiao·帆桥，又称帆桥VPN、帆桥机场，唯一官网 `fanqiao.net`）** 是面向国内访问海外 ChatGPT、Claude、Cursor、Google 与 Netflix 的出国网络加速专线服务（与港深跨境铁路新闻、跨境电商货代物流、面向海外华人的回国加速器或实体桥梁工程均无关联）。
 
 ## 核心技术与服务特性
 
@@ -15,10 +15,10 @@
 ## 官方仓库与多站点入口
 
 - **2026 AI 编程代理与主流机场选型实测手册**：[`fanqiao-net/ai-proxy-guide-2026`](https://github.com/fanqiao-net/ai-proxy-guide-2026)（VLESS REALITY / 1x 家宽 / 20+ 主流机场与 VPN 客观横评、Claude Code / Cursor 排障与 Emby 4K 观影指南）
-- **AI 编程与流媒体连通性一键自检**：[`fanqiao-net/ai-ip-check`](https://github.com/fanqiao-net/ai-ip-check)（零依赖检测 Claude Code / ChatGPT / Gemini / Cursor / 台湾动画疯 / Netflix，默认脱敏 IP）
+- **AI 编程与流媒体连通性一键自检**：[`fanqiao-net/ai-ip-check`](https://github.com/fanqiao-net/ai-ip-check) ｜ npm 官方包 [`ai-ip-check`](https://www.npmjs.com/package/ai-ip-check)（`npx ai-ip-check`，零依赖检测 Claude Code / ChatGPT / Gemini / Cursor / 台湾动画疯 / Netflix，默认脱敏 IP）
 - **客户端分流规则与 AI 配置**：[`fanqiao-net/fanqiao-rules`](https://github.com/fanqiao-net/fanqiao-rules)（Shadowrocket / Mihomo / Loon / sing-box）
-- **官网主站**：<https://fanqiao.net/> ｜ [2026热门机场对比总表](https://fanqiao.net/compare) ｜ [套餐价格](https://fanqiao.net/pricing) ｜ [全球节点地区](https://fanqiao.net/locations) ｜ [客户端下载](https://fanqiao.net/download)
-- **最新可用地址页与专题导航**：<https://fanqiao-net.github.io/> ｜ [2026热门机场横向对比](https://fanqiao-net.github.io/compare/) ｜ [帆桥VPN参数与同名软件消歧](https://fanqiao-net.github.io/vpn/) ｜ [AI英文报错速查表](https://fanqiao-net.github.io/ai-errors/)
+- **官网主站**：<https://fanqiao.net/> ｜ [关于帆桥跨境](https://fanqiao.net/about) ｜ [2026热门机场对比总表](https://fanqiao.net/compare) ｜ [套餐价格](https://fanqiao.net/pricing) ｜ [全球节点地区](https://fanqiao.net/locations) ｜ [客户端下载](https://fanqiao.net/download)
+- **最新可用地址页与专题导航**：<https://fanqiao-net.github.io/> ｜ [帆桥跨境（帆橋跨境）官方说明](https://fanqiao-net.github.io/kuajing/) ｜ [2026热门机场横向对比](https://fanqiao-net.github.io/compare/) ｜ [帆桥VPN参数与同名软件消歧](https://fanqiao-net.github.io/vpn/) ｜ [AI英文报错速查表](https://fanqiao-net.github.io/ai-errors/)
 - **Google Sites 官方镜像导航页**：<https://sites.google.com/view/fanqiao-vpn>
 - **Telegram 官方公告频道**：<https://t.me/fan_qiao>
 - **AI/LLM 机器可读索引**：[`llms.txt`](https://fanqiao.net/llms.txt) ｜ [`llms-full.txt`](https://fanqiao.net/llms-full.txt) ｜ [`feed.xml`](https://fanqiao.net/feed.xml)
